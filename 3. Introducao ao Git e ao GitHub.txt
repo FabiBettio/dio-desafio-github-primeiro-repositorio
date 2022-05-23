@@ -1,0 +1,37 @@
+Curso: Introdução ao Git e ao GitHub
+Professor(a): Otávio Reis
+
+1. Comandos básicos para um bom desempenho do terminal:
+
+CTRl + l  limpar
+cd /      lista de diretórios
+cd (nome da pasta) para entrar na pasta
+cd ..     voltar
+cls       limpar a tela
+mkdir "nome da pasta" cria a pasta "nome da pasta"
+del       deletar
+rmdir "nome do arquivo" deleta o diretório
+ls        listar
+ls -a     lista com arquivos ocultos
+mv "nome do arquivo" move o arquivo
+
+git init  inicia o repositório
+git add   move arquivos
+git commit cria commit
+git status status
+git push origin master   puxa o arquivo para a minha pasta
+git pull origin master   leva o arquivo para o git
+git clone
+
+obs.: ao escrever o nome da pasta, escreve as primeiras letras e tab, preenche automaticamente
+
+2. SHA1 (Secure Hash Algoritmo) - "É um algoritmo de Hash seguro; 
+   É um conjunto de funções de Hash criptografadas, projetadas pela NSA (Agência de Segurança Nacional dos EUA);"
+
+3. Objetos Internos do Git
+
+  Blobs - "contém metadados do Git, guarda o Sha1 do arquivo."
+  Trees - "armazena blobs, armazena metadados e pode armazenar outras árvores."
+  Commits - "aponta a árvore, parente, autor, mensagem, time stamp e também possuem Sha1 e codificação".
+
+  GIT "É um sistema distribuído e seguro"

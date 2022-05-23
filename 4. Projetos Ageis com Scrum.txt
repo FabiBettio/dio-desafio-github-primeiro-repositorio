@@ -1,0 +1,65 @@
+Curso: Projetos Ágeis com Scrum
+Professores: Thiago Sano e Diego Pereira
+
+Na Gestão de Projetos temos Projetos Tradicionais (Waterfall/Cascata), no qual o projeto avança quando a fase anterior está concluída. 
+E, existem Projetos Ágeis (Scrum), pelos quais "os softwares contruídos por partes (incremental) e cada parte executa-se em um ciclo".
+
+No primeiro, corre-se o risco de descobrir-se o erro depois de meses de trabalho. Além dele ser mais resistente a mudanças. Nele vê o software no final do projeto.
+Já o Ágil, os erros, normalmente, são descobertos em no máximo 30 dias, além de as mudanças ocorrem conforme apresentados os feedbacks contínuos. O projeto é apresentado ao cliente já na parte inicial do projeto.
+
+Scrum requer: transparência, adaptação e inspeção. Assim, aprende-se gradativamente com o uso do software.
+
+Características do Scrum: Equipe auto-organizada, tarefas do Time de DEV e comprometimento com resultado.
+
+Papéis inseridos no Scrum:
+1. Product Owner (PO) - área de negócios, define as funcionalidades do software, prioriza o Backlog e é formado por 1 pessoa apenas.
+2. Scrum Master (SM)  - garante o uso correto do Scrum; não é o gerente de projetos, apenas é o facilitador; auxilia a equipe para remover impedimentos; treina o time de DEV em autogerenciamento e interdiciscplina. Quando o Time DEV está em seu maior nível de maturidade, já não se faz mais sentido a função existir neste projeto. 
+3. Time DEV (DEV)     - habilidade para desenvolver, testar, criar e desenhar; conhecer e aprender tudo que for necessário para que o software funcione.
+
+Cerimônias do Scrum:
+TIME BOX - tempo máximo para fazer uma cerimônia/sprint
+SPRINT   - principal evento do Scrum; duração de até 30 dias corridos.
+          
+Composição do Sprint:
+1. Planejamento
+   Todos participam
+   Time box - 8 horas
+   PO diz o que deseja (O que fazer) - 4 horas
+   DEV diz como fazer                - 4 horas
+   Técnicas: PLANNING POKER - estima o esforço de cada tarefa x se tudo o que o PO pediu consegue fazer
+   DEV começam a desenvolver  
+ 
+2. Reuniões Diárias (Daily Meeting)
+   Todos participam
+   Time box - 15 minutos em pé para ser ágil
+   DEV - O que fez no dia anterior, o que fará hoje e se tem impedimentos?
+
+3. Revisão da Sprint (Review)
+   Time DEV apresenta para o PO o trabalho feito
+   Time box - 4 horas
+
+4. Retrospectiva
+   Reunião de equipe para lições aprendidas
+   Transparência
+   Time box - 3 horas
+
+PRODUCT BACKLOG
+
+ÉPICOS - sem muito detalhamento, direciona o caminho a seguir
+
+ESTÓRIAS - detalhamento dos épicos; um épico é igual a várias estórias, onde ficam descritos: o que deve acontecer? Regras do negócio
+
+TAREFAS - conjunto de atividades que o time DEV deve desempenhar para entregar a estória. Tem como característica uma tarefa descrita em nível de negócio.
+
+ESCREVENDO UMA ESTÓRIA:
+=======================
+Nome da estória:
+Descrição da estória: (eu, como, quero, quando)
+Regras do negócio: (separar as regras de front-end e de back-end)
+Tela: (link ou imagens das telas a serem desenvolvidas)
+KPI: (Quais os objetivos/valores a estória precisa atingir)
+Tagueamento: (Como a estória será tagueada para poder mensurar o KPI)
+Critérios de aceite: (Qual o passo a passo de todos os caminhos felizes possíveis que a estória deva cumprir para que ela seja aceita)
+
+
+

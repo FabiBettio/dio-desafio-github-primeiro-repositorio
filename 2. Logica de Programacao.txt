@@ -1,0 +1,44 @@
+Curso: Lógica de Programação
+Professor(a): Denilson Bonatti
+
+1) O que é Lógica? "É coerência de raciocínio e ideias. Uma sequência coerente, regular e necessária dos acontecimentos".
+
+O que é Lógica de Programação? "É contextualizar a lógica de programação de computadores, buscando a melhor sequência de ações para solucionar um problema".
+
+
+2) Algoritmos: É uma sequência de passos que resolve um problema.
+
+O Professor direcionou a links para exercitar o conhecimento:
+
+https://studio.code.org/s/mc/lessons/1/levels/1
+
+https://www.proprofsgames.com/wolf/
+
+
+3) Fluxograma: "É uma ferramenta utilizada para representar graficamente o algoritmo, isto é, a sequência lógica e coerente do fluxo de dados."
+
+Baixar o: http://flowgorithm.org/ 
+E realizar exercícios de fluxograma. Como exemplo, realizar a tabuada.
+
+
+4) Tomadas de decisões e expressões
+
+4.1) Expressões Aritméticas - Expressões com operadores aritméticos e funções aritméticas envolvendo variáveis e constantes.
+     +, -, *, /, ^ e %
+
+4.2) Expressões Literais - Expressões com constantes e variáveis que tem como resultado valores literais.
+     Exº: nome = "José da Silva"  
+          media=(nota1+nota2+nota3+nota4)/4
+4.3) Expressões Relacionais - Expressões compostas por outras expressões pou variáveis numéricas com operadores relacionais.
+     Elas retornam valores lógicos (verdadeiro/falso).
+     Operadores relacionais: >, <, >=, <=, ==, != e <>.
+
+5) Concatenação (&, +, depende do programa escolhe-se o símbolo) - É um termo utilizado para designar a operação de unir o conteúdo de 2 strings.
+   Strings é uma sequência de caracteres.
+   Exemplo: "O seu nome é" & nome & "e o seu sobrenome é" & sobrenome.
+   Resultado:  O seu nome é XXX e o seu sobrenome é YYYY.          
+
+6) Introdução ao Portugol
+   Portugol - "pseudolinguagem que permite ao leitor desenvolver algoritmos estruturados em português de forma simples e intuitiva, independentemente de linguagem de programação".
+
+   Link: https://github.com/UNIVALI-LITE/Portugol-Studio/releases/

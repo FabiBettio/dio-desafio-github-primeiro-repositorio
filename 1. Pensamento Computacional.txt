@@ -1,0 +1,10 @@
+Curso: Pensamento Computacional
+Professor(a): Juliana Mascarenhas
+
+O que é Pensamento Computacional? "É formular e resolver problemaas de forma sistemática e eficiente"
+
+Os Pilares do Pensamento Computacional:
+1) Decomposição
+2) Reconhecimento de Padrões
+3) Abstração
+4) Design de Algoritmos
