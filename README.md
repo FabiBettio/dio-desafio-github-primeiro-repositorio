@@ -1,5 +1,5 @@
 # Dio-desafio-github-primeiro-repositorio
-DIO - CARREFOUR - Desafio de Projeto sobre GitHub
+DIO - Desafio de Projeto sobre GitHub
 Repositório criado para o Desafio de Projeto
 
 ## Links Úteis
